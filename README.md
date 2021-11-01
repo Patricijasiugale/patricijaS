@@ -1,12 +1,10 @@
 <html>
 <head>
-<title> True friends </title>
+<title> True friends, Robin Jones Gunn </title>
   <style>
      body {
     }
-    div {
-      background-color: rgba(255, 255, 255, 0.31);
-    }
+    
      p {
        font-size: 1.875rem;
        color: black;
