@@ -1,4 +1,3 @@
-</style>
 </head>
 <body>
   <div class=8c>  
