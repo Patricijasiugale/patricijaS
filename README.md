@@ -1,7 +1,7 @@
 !DOCTYPE html>
 <html>
 <head>
-<title>True friends</title>
+<title> True friends </title>
   <style>
      body {
        background-image: url(https://i.ebayimg.com/images/g/ZIsAAOSwAFJd2-ls/s-l300.jpg);
@@ -17,11 +17,12 @@
 </head>
 <body>
   <div class=8c>  
-    <h1 style="color: red;"> Carol </h1>
-<p>The book is about two best friends who went to a ski trip with people from school. One of them found other friends, the friendship was in jeperaty..</p>
+    <h1 style="color: red;"> True friends </h1>
+<p>The book is about two best friends who went to a ski trip with people from school. One of them found other friends, the friendship was in jeperaty.</p>
 
   <a href="https://www.waterstones.com/book/carol/patricia-highsmith/9781408808979">abcd</a>
-  <img src="https://m.media-amazon.com/images/I/41IVoHR80sL.jpg">                                                
+  <img src="https://m.media-amazon.com/images/I/41IVoHR80sL.jpg"> 
+    
   </div>
 </body>
 </html>
